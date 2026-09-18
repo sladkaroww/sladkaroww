@@ -81,7 +81,7 @@ If you're interested in one of my projects, want to collaborate, or just want to
 
 <div align="center">
 
-<a href="https://stand-with-ukraine.pp.ua">
+<a href="https://stand-with-ukraine.pp.ua" target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg" alt="Stand With Ukraine" width="500">
 </a>
 
