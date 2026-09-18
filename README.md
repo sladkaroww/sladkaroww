@@ -67,12 +67,15 @@ A school podcast website built with a modern web stack.
 
 ## 🤝 Let's connect
 
-If you're interested in one of my projects, want to collaborate, or just want to say hi, feel free to reach out through GitHub.
+If you're interested in one of my projects, want to collaborate, or just want to say hi, feel free to reach out.
 
 <div align="center">
 
 <a href="https://github.com/sladkaroww">
   <img src="https://img.shields.io/badge/GitHub-sladkaroww-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://sladkaroww.neocities.org" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Website-sladkaroww.neocities.org-8B5CF6?style=flat&logo=googlechrome&logoColor=white" alt="Website">
 </a>
 
 </div>
