@@ -12,7 +12,7 @@
 
 </div>
 
-## 🚀 What I'm working on
+## 🚀 what I'm working on
 
 ### 🚛 TEXIM ONE
 
@@ -32,7 +32,7 @@ A school podcast website built with a modern web stack.
 * Tailwind CSS
 * Cloudflare Pages
 
-## 🛠️ Technologies I use
+## 🛠️ things I use for my work
 
 <p>
   <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white" alt="Astro">
@@ -44,7 +44,7 @@ A school podcast website built with a modern web stack.
 </p>
 
 
-## 📌 Featured projects
+## 📌 featured projects
 
 | Project                                                          | Description                                       |
 | ---------------------------------------------------------------- | ------------------------------------------------- |
