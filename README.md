@@ -1,6 +1,6 @@
 <div align="center">
 
-https://raw.githubusercontent.com/sladkaroww/sladkaroww/refs/heads/main/mysetup.gif
+<img src="https://raw.githubusercontent.com/sladkaroww/sladkaroww/refs/heads/main/mysetup.gif" alt=Setup">
 
 
 # Hey, I'm sladkaroww 👋
